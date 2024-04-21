@@ -1,9 +1,6 @@
 # todo-web3
 Web3 based Todo app in Solidity, Ethereum, Hardhat, React
 
-https://user-images.githubusercontent.com/4313602/208738742-85e8b1ed-68d2-4362-9242-aa4d1c6bfa3c.mp4
-
-
 ## Technology Stack & Tools
 
 - Solidity (Writing Smart Contracts & Tests)
